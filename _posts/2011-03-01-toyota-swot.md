@@ -6,7 +6,7 @@ headline:    "Some business stuff on Toyota"
 categories:  [Business,Companies,Toyota]
 tags:        [Business,Companies,Toyota,SWOT]
 image:       
-comments:    true
+comments:    false
 mathjax:     
 featured:    false
 published:   true

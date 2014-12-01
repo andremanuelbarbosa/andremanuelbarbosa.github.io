@@ -6,7 +6,7 @@ headline:    "Some business stuff on Severn Trent Water"
 categories:  [Business,Companies,Severn-Trent-Water]
 tags:        [Business,Companies,Severn Trent Water,Generic Strategies]
 image:       
-comments:    true
+comments:    false
 mathjax:     
 featured:    false
 published:   true

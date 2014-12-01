@@ -6,7 +6,7 @@ headline:    "Some business stuff on easyJet"
 categories:  [Business,Companies,easyJet]
 tags:        [Business,Companies,easyJet,PESTEL]
 image:       
-comments:    true
+comments:    false
 mathjax:     
 featured:    false
 published:   true
