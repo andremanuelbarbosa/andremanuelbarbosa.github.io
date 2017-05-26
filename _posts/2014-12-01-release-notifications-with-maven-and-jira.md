@@ -13,7 +13,7 @@ published:   false
 ---
 
 
-# The Problem
+# TL;DR
 
 A while ago one of the clients consuming our code asked me "How will we know if one of your components/applications has been released?". 
 

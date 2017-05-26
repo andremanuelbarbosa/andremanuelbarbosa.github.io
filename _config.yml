@@ -13,16 +13,16 @@ url:              http://www.andremanuelbarbosa.com
 baseurl:          
 
 owner:
-  name:           Andre Barbosa
+  name:           André Barbosa
   avatar:         andremanuelbarbosa.jpg
   email:          andremanuelbarbosa@gmail.com
-  description:    Technical Lead at John Wiley & Sons
+  description:    Senior PS Engineer @ Jive Software
   twitter:        andremanbarbosa
   facebook:       
   github:         andremanuelbarbosa
-  stackexchange:  
+  stackexchange:  https://stackexchange.com/users/1091174/andr%C3%A9-barbosa
   linkedin:       http://www.linkedin.com/in/andremanuelbarbosa
-  instagram:      
+  instagram:      andremanuelbarbosa
   flickr:         
   tumblr:         
   hmfaysalsocial: 
@@ -52,19 +52,17 @@ paginate_path: "page:num"
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
-kramdown:
+syntax_highlighter_opts:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
-
-  coderay:
-    coderay_line_numbers: 
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+  enable_coderay: false
+  line_numbers:
+  line_numbers_start: 1
+  tab_width: 4
+  bold_every: 10
+  css: class
 
 prose:
   rooturl: '_posts'
