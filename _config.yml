@@ -44,7 +44,7 @@ links:
 
 timezone:    Europe/London
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 paginate:    6
 paginate_path: "page:num"
