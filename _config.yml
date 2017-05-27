@@ -1,6 +1,6 @@
-title:            André Barbosa
-description:      "Just another blog about random things..."
-logo:             
+title:            André Barbosa's Blog
+description:      "It was working on my machine!"
+logo:
 disqus_shortname: andremanuelbarbosa
 default_bg:       pomegranates.jpg
 search:           true
@@ -22,7 +22,7 @@ owner:
   github:         andremanuelbarbosa
   stackexchange:  https://stackexchange.com/users/1091174/andr%C3%A9-barbosa
   linkedin:       http://www.linkedin.com/in/andremanuelbarbosa
-  instagram:      andremanuelbarbosa
+  instagram:
   flickr:         
   tumblr:         
   hmfaysalsocial: 

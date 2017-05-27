@@ -3821,7 +3821,7 @@ button.menu-button {
 }
 button.menu-button:hover {
   background-color: #39c492 ;
-  color: #fff
+  color: #fff;
   box-shadow: rgba(0,0,0,0.2) 0 0 0 3px;
 }
 
@@ -4026,32 +4026,33 @@ body.slide{
     
     }
 
-@media screen and (max-width:700px){
+@media screen and (max-width:700px) {
 
-    #fade.slide{
-        left:298px
-        }
+  #fade.slide {
+    left: 298px
+  }
 
-    /*a#slide.slide{*/
-    /*    left:10px*/
-    /*    }*/
+  /*a#slide.slide{*/
+  /*    left:10px*/
+  /*    }*/
+  #header,
+  #posts-container,
+  .entry .text,
+  .entry .media,
+  .entry .captions,
+  .entry .details,
+  #permalink .permalink-box {
+    width: 90%
+  }
 
-    #header,
-    #posts-container,
-    .entry .text,
-    .entry .media,
-    .entry .captions,
-    .entry .details,
-    #permalink .permalink-box{
-        width:90%
-        }
+  @media screen and (max-width: 500px) {
 
+    a#slide {
+      position: absolute;
+    }
+  }
+}
 
-@media screen and (max-width:500px){
-    
-    a#slide{
-        position:absolute    
-        }
 
 
 /*      End-Responsive      */
