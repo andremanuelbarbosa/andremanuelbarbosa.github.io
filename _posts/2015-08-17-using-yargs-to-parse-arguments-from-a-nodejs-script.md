@@ -6,7 +6,7 @@ headline:    "Using Yargs to parse Arguments from a Node.js Script"
 categories:  [Node.js]
 tags:        [Node.js,Yargs]
 image:       
-comments:    false
+comments:    true
 mathjax:     
 featured:    false
 published:   true
