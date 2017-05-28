@@ -21,7 +21,7 @@ In Yargs, each argument has a unique name (the identifier or hash) and this name
 var argv = require('yargs')  
   .usage('Usage: node $0 [options]')  
   .demand('f').alias('f', 'file-name').nargs('f', 1).describe('f', 'The CSV Source File Name').default('f', 'users.csv')  
-  .demand('b').alias('b', 'instance-url').nargs('b', 1).describe('b', 'The Base URL for the Instance').default('b', 'https://customer.jiveon.com')  
+  .demand('b').alias('b', 'instance-url').nargs('b', 1).describe('b', 'The Base URL for the Instance').default('b', 'https://customer.com')  
   .demand('u').alias('u', 'admin-username').nargs('u', 1).describe('u', 'The Admin Username').default('u', 'admin')  
   .demand('p').alias('p', 'admin-password').nargs('p', 1).describe('p', 'The Admin Password')  
   .demand('d').alias('d', 'date-format').nargs('d', 1).describe('u', 'The Date Format on the Instance').default('d', 'DD/MM/YYYY')  
@@ -65,7 +65,7 @@ Options:
   -f, --file-name            The CSV Source File Name  
                                                [required] [default: "users.csv"]  
   -b, --instance-url         The Base URL for the Instance  
-                             [required] [default: "https://customer.jiveon.com"]  
+                                    [required] [default: "https://customer.com"]  
   -u, --admin-username       The Date Format on the Instance  
                                                    [required] [default: "admin"]  
   -p, --admin-password       The Admin Password                       [required]  
