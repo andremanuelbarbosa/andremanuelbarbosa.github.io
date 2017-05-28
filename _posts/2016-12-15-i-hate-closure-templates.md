@@ -4,7 +4,7 @@ title:       I hate Closure Templates
 description: 
 headline:    "I hate Closure Templates"
 categories:  [Closure]
-tags:        [Closure, Stack Overflow, Java]
+tags:        [Closure,Stack Overflow,Java]
 image:       
 comments:    true
 mathjax:     
